@@ -1,0 +1,243 @@
+2020-07-02 00:00:01,028 INFO 8816 [egg-logrotator] agent logger reload: got log-reload message
+2020-07-02 08:54:46,463 INFO 2604 [egg:logger] init all loggers with options: {"dir":"F:\\项目练习\\shoppingmall\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-07-02 08:54:46,474 INFO 2604 [egg:core] dump config after load, 6ms
+2020-07-02 08:54:46,674 INFO 2604 [egg-watcher] Start watching: ["F:\\项目练习\\shoppingmall\\server\\app","F:\\项目练习\\shoppingmall\\server\\config","F:\\项目练习\\shoppingmall\\server\\mocks","F:\\项目练习\\shoppingmall\\server\\mocks_proxy","F:\\项目练习\\shoppingmall\\server\\app.js"]
+2020-07-02 08:54:46,674 INFO 2604 [egg-watcher] Start watching: "F:\\项目练习\\shoppingmall\\server\\app"
+2020-07-02 08:54:46,674 INFO 2604 [egg-watcher] Start watching: "F:\\项目练习\\shoppingmall\\server\\config"
+2020-07-02 08:54:46,675 INFO 2604 [egg-watcher] Start watching: "F:\\项目练习\\shoppingmall\\server\\mocks"
+2020-07-02 08:54:46,675 INFO 2604 [egg-watcher] Start watching: "F:\\项目练习\\shoppingmall\\server\\mocks_proxy"
+2020-07-02 08:54:46,675 INFO 2604 [egg-watcher] Start watching: "F:\\项目练习\\shoppingmall\\server\\app.js"
+2020-07-02 08:54:46,676 INFO 2604 [egg-watcher:agent] watcher start success
+2020-07-02 08:54:46,700 INFO 2604 [egg:core] dump config after ready, 12ms
+2020-07-03 08:51:24,514 INFO 17128 [egg:logger] init all loggers with options: {"dir":"F:\\项目练习\\shoppingmall\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-07-03 08:51:24,525 INFO 17128 [egg:core] dump config after load, 7ms
+2020-07-03 08:51:24,794 INFO 17128 [egg-watcher] Start watching: ["F:\\项目练习\\shoppingmall\\server\\app","F:\\项目练习\\shoppingmall\\server\\config","F:\\项目练习\\shoppingmall\\server\\mocks","F:\\项目练习\\shoppingmall\\server\\mocks_proxy","F:\\项目练习\\shoppingmall\\server\\app.js"]
+2020-07-03 08:51:24,794 INFO 17128 [egg-watcher] Start watching: "F:\\项目练习\\shoppingmall\\server\\app"
+2020-07-03 08:51:24,795 INFO 17128 [egg-watcher] Start watching: "F:\\项目练习\\shoppingmall\\server\\config"
+2020-07-03 08:51:24,796 INFO 17128 [egg-watcher] Start watching: "F:\\项目练习\\shoppingmall\\server\\mocks"
+2020-07-03 08:51:24,796 INFO 17128 [egg-watcher] Start watching: "F:\\项目练习\\shoppingmall\\server\\mocks_proxy"
+2020-07-03 08:51:24,796 INFO 17128 [egg-watcher] Start watching: "F:\\项目练习\\shoppingmall\\server\\app.js"
+2020-07-03 08:51:24,797 INFO 17128 [egg-watcher:agent] watcher start success
+2020-07-03 08:51:24,830 INFO 17128 [egg:core] dump config after ready, 22ms
+2020-11-08 15:09:49,498 INFO 17452 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-11-08 15:09:49,510 INFO 17452 [egg:core] dump config after load, 7ms
+2020-11-08 15:09:49,561 INFO 17452 [egg-watcher] Start watching: ["C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\config","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks_proxy","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app.js"]
+2020-11-08 15:09:49,562 INFO 17452 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app"
+2020-11-08 15:09:49,562 INFO 17452 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\config"
+2020-11-08 15:09:49,562 INFO 17452 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks"
+2020-11-08 15:09:49,562 INFO 17452 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks_proxy"
+2020-11-08 15:09:49,562 INFO 17452 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app.js"
+2020-11-08 15:09:49,563 INFO 17452 [egg-watcher:agent] watcher start success
+2020-11-08 15:09:49,578 INFO 17452 [egg:core] dump config after ready, 6ms
+2020-11-08 18:11:05,697 INFO 2884 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-11-08 18:11:05,771 INFO 2884 [egg:core] dump config after load, 41ms
+2020-11-08 18:11:06,032 INFO 2884 [egg-watcher] Start watching: ["C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\config","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks_proxy","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app.js"]
+2020-11-08 18:11:06,033 INFO 2884 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app"
+2020-11-08 18:11:06,034 INFO 2884 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\config"
+2020-11-08 18:11:06,034 INFO 2884 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks"
+2020-11-08 18:11:06,035 INFO 2884 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks_proxy"
+2020-11-08 18:11:06,036 INFO 2884 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app.js"
+2020-11-08 18:11:06,041 INFO 2884 [egg-watcher:agent] watcher start success
+2020-11-08 18:11:06,127 INFO 2884 [egg:core] dump config after ready, 33ms
+2020-11-08 22:31:37,239 INFO 19116 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-11-08 22:31:37,247 INFO 19116 [egg:core] dump config after load, 5ms
+2020-11-08 22:31:37,320 INFO 19116 [egg-watcher] Start watching: ["C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\config","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks_proxy","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app.js"]
+2020-11-08 22:31:37,320 INFO 19116 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app"
+2020-11-08 22:31:37,320 INFO 19116 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\config"
+2020-11-08 22:31:37,320 INFO 19116 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks"
+2020-11-08 22:31:37,320 INFO 19116 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks_proxy"
+2020-11-08 22:31:37,321 INFO 19116 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app.js"
+2020-11-08 22:31:37,321 INFO 19116 [egg-watcher:agent] watcher start success
+2020-11-08 22:31:37,336 INFO 19116 [egg:core] dump config after ready, 5ms
+2020-11-08 22:40:50,810 INFO 19020 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-11-08 22:40:50,818 INFO 19020 [egg:core] dump config after load, 4ms
+2020-11-08 22:40:50,876 INFO 19020 [egg-watcher] Start watching: ["C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\config","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks_proxy","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app.js"]
+2020-11-08 22:40:50,876 INFO 19020 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app"
+2020-11-08 22:40:50,877 INFO 19020 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\config"
+2020-11-08 22:40:50,877 INFO 19020 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks"
+2020-11-08 22:40:50,877 INFO 19020 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks_proxy"
+2020-11-08 22:40:50,877 INFO 19020 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app.js"
+2020-11-08 22:40:50,877 INFO 19020 [egg-watcher:agent] watcher start success
+2020-11-08 22:40:50,895 INFO 19020 [egg:core] dump config after ready, 8ms
+2020-11-09 08:34:33,743 INFO 9584 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-11-09 08:34:33,751 INFO 9584 [egg:core] dump config after load, 4ms
+2020-11-09 08:34:33,804 INFO 9584 [egg-watcher] Start watching: ["C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\config","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks_proxy","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app.js"]
+2020-11-09 08:34:33,804 INFO 9584 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app"
+2020-11-09 08:34:33,805 INFO 9584 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\config"
+2020-11-09 08:34:33,805 INFO 9584 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks"
+2020-11-09 08:34:33,805 INFO 9584 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks_proxy"
+2020-11-09 08:34:33,805 INFO 9584 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app.js"
+2020-11-09 08:34:33,805 INFO 9584 [egg-watcher:agent] watcher start success
+2020-11-09 08:34:33,819 INFO 9584 [egg:core] dump config after ready, 5ms
+2020-11-09 13:06:40,730 INFO 19636 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-11-09 13:06:40,740 INFO 19636 [egg:core] dump config after load, 7ms
+2020-11-09 13:06:40,811 INFO 19636 [egg-watcher] Start watching: ["C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\config","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks_proxy","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app.js"]
+2020-11-09 13:06:40,811 INFO 19636 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app"
+2020-11-09 13:06:40,812 INFO 19636 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\config"
+2020-11-09 13:06:40,812 INFO 19636 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks"
+2020-11-09 13:06:40,812 INFO 19636 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks_proxy"
+2020-11-09 13:06:40,812 INFO 19636 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app.js"
+2020-11-09 13:06:40,812 INFO 19636 [egg-watcher:agent] watcher start success
+2020-11-09 13:06:40,830 INFO 19636 [egg:core] dump config after ready, 7ms
+2020-11-10 08:42:07,211 INFO 5748 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-11-10 08:42:07,222 INFO 5748 [egg:core] dump config after load, 8ms
+2020-11-10 08:42:07,288 INFO 5748 [egg-watcher] Start watching: ["C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\config","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks_proxy","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app.js"]
+2020-11-10 08:42:07,288 INFO 5748 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app"
+2020-11-10 08:42:07,288 INFO 5748 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\config"
+2020-11-10 08:42:07,288 INFO 5748 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks"
+2020-11-10 08:42:07,289 INFO 5748 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks_proxy"
+2020-11-10 08:42:07,289 INFO 5748 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app.js"
+2020-11-10 08:42:07,289 INFO 5748 [egg-watcher:agent] watcher start success
+2020-11-10 08:42:07,316 INFO 5748 [egg:core] dump config after ready, 10ms
+2020-11-10 13:45:19,976 INFO 10280 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-11-10 13:45:19,984 INFO 10280 [egg:core] dump config after load, 5ms
+2020-11-10 13:45:20,046 INFO 10280 [egg-watcher] Start watching: ["C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\config","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks_proxy","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app.js"]
+2020-11-10 13:45:20,046 INFO 10280 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app"
+2020-11-10 13:45:20,047 INFO 10280 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\config"
+2020-11-10 13:45:20,047 INFO 10280 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks"
+2020-11-10 13:45:20,047 INFO 10280 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks_proxy"
+2020-11-10 13:45:20,047 INFO 10280 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app.js"
+2020-11-10 13:45:20,047 INFO 10280 [egg-watcher:agent] watcher start success
+2020-11-10 13:45:20,063 INFO 10280 [egg:core] dump config after ready, 6ms
+2020-11-10 16:10:31,074 ERROR 10280 nodejs.ClusterClientNoResponseError: client no response in 87836ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\ZZH\Desktop\shoppingMall-master\server\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 10280
+hostname: DESKTOP-OBLRKFO
+
+2020-11-11 08:37:39,074 INFO 14472 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-11-11 08:37:39,084 INFO 14472 [egg:core] dump config after load, 5ms
+2020-11-11 08:37:39,162 INFO 14472 [egg-watcher] Start watching: ["C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\config","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks_proxy","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app.js"]
+2020-11-11 08:37:39,162 INFO 14472 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app"
+2020-11-11 08:37:39,163 INFO 14472 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\config"
+2020-11-11 08:37:39,163 INFO 14472 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks"
+2020-11-11 08:37:39,163 INFO 14472 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks_proxy"
+2020-11-11 08:37:39,163 INFO 14472 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app.js"
+2020-11-11 08:37:39,164 INFO 14472 [egg-watcher:agent] watcher start success
+2020-11-11 08:37:39,187 INFO 14472 [egg:core] dump config after ready, 10ms
+2020-11-12 08:34:06,090 INFO 13944 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-11-12 08:34:06,098 INFO 13944 [egg:core] dump config after load, 4ms
+2020-11-12 08:34:06,154 INFO 13944 [egg-watcher] Start watching: ["C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\config","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks_proxy","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app.js"]
+2020-11-12 08:34:06,155 INFO 13944 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app"
+2020-11-12 08:34:06,155 INFO 13944 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\config"
+2020-11-12 08:34:06,155 INFO 13944 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks"
+2020-11-12 08:34:06,155 INFO 13944 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks_proxy"
+2020-11-12 08:34:06,155 INFO 13944 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app.js"
+2020-11-12 08:34:06,155 INFO 13944 [egg-watcher:agent] watcher start success
+2020-11-12 08:34:06,171 INFO 13944 [egg:core] dump config after ready, 6ms
+2020-11-13 08:43:33,101 INFO 6000 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-11-13 08:43:33,119 INFO 6000 [egg:core] dump config after load, 11ms
+2020-11-13 08:43:33,474 INFO 6000 [egg-watcher] Start watching: ["C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\config","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks_proxy","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app.js"]
+2020-11-13 08:43:33,474 INFO 6000 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app"
+2020-11-13 08:43:33,475 INFO 6000 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\config"
+2020-11-13 08:43:33,475 INFO 6000 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks"
+2020-11-13 08:43:33,475 INFO 6000 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks_proxy"
+2020-11-13 08:43:33,476 INFO 6000 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app.js"
+2020-11-13 08:43:33,476 INFO 6000 [egg-watcher:agent] watcher start success
+2020-11-13 08:43:33,536 INFO 6000 [egg:core] dump config after ready, 12ms
+2020-11-14 11:01:07,127 INFO 9600 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-11-14 11:01:07,147 INFO 9600 [egg:core] dump config after load, 11ms
+2020-11-14 11:01:07,542 INFO 9600 [egg-watcher] Start watching: ["C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\config","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks_proxy","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app.js"]
+2020-11-14 11:01:07,542 INFO 9600 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app"
+2020-11-14 11:01:07,543 INFO 9600 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\config"
+2020-11-14 11:01:07,543 INFO 9600 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks"
+2020-11-14 11:01:07,544 INFO 9600 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks_proxy"
+2020-11-14 11:01:07,544 INFO 9600 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app.js"
+2020-11-14 11:01:07,545 INFO 9600 [egg-watcher:agent] watcher start success
+2020-11-14 11:01:07,679 INFO 9600 [egg:core] dump config after ready, 12ms
+2020-11-16 09:23:15,924 INFO 10412 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-11-16 09:23:15,932 INFO 10412 [egg:core] dump config after load, 5ms
+2020-11-16 09:23:15,988 INFO 10412 [egg-watcher] Start watching: ["C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\config","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks_proxy","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app.js"]
+2020-11-16 09:23:15,988 INFO 10412 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app"
+2020-11-16 09:23:15,989 INFO 10412 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\config"
+2020-11-16 09:23:15,989 INFO 10412 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks"
+2020-11-16 09:23:15,989 INFO 10412 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks_proxy"
+2020-11-16 09:23:15,989 INFO 10412 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app.js"
+2020-11-16 09:23:15,989 INFO 10412 [egg-watcher:agent] watcher start success
+2020-11-16 09:23:16,006 INFO 10412 [egg:core] dump config after ready, 8ms
+2020-11-17 08:28:53,719 INFO 2596 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-11-17 08:28:53,752 INFO 2596 [egg:core] dump config after load, 19ms
+2020-11-17 08:28:53,922 INFO 2596 [egg-watcher] Start watching: ["C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\config","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks_proxy","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app.js"]
+2020-11-17 08:28:53,922 INFO 2596 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app"
+2020-11-17 08:28:53,924 INFO 2596 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\config"
+2020-11-17 08:28:53,924 INFO 2596 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks"
+2020-11-17 08:28:53,926 INFO 2596 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks_proxy"
+2020-11-17 08:28:53,926 INFO 2596 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app.js"
+2020-11-17 08:28:53,927 INFO 2596 [egg-watcher:agent] watcher start success
+2020-11-17 08:28:53,971 INFO 2596 [egg:core] dump config after ready, 17ms
+2020-11-17 11:56:12,027 ERROR 2596 nodejs.ClusterClientNoResponseError: client no response in 130556ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\ZZH\Desktop\shoppingMall-master\server\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 2596
+hostname: DESKTOP-OBLRKFO
+
+2020-11-18 10:58:12,511 INFO 7768 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-11-18 10:58:12,528 INFO 7768 [egg:core] dump config after load, 10ms
+2020-11-18 10:58:12,815 INFO 7768 [egg-watcher] Start watching: ["C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\config","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks_proxy","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app.js"]
+2020-11-18 10:58:12,815 INFO 7768 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app"
+2020-11-18 10:58:12,816 INFO 7768 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\config"
+2020-11-18 10:58:12,816 INFO 7768 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks"
+2020-11-18 10:58:12,816 INFO 7768 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks_proxy"
+2020-11-18 10:58:12,816 INFO 7768 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app.js"
+2020-11-18 10:58:12,817 INFO 7768 [egg-watcher:agent] watcher start success
+2020-11-18 10:58:12,978 INFO 7768 [egg:core] dump config after ready, 143ms
+2020-11-18 12:44:00,843 ERROR 7768 nodejs.ClusterClientNoResponseError: client no response in 2131452ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\ZZH\Desktop\shoppingMall-master\server\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 7768
+hostname: DESKTOP-OBLRKFO
+
+2020-11-19 08:46:38,364 INFO 11852 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-11-19 08:46:38,413 INFO 11852 [egg:core] dump config after load, 32ms
+2020-11-19 08:46:38,748 INFO 11852 [egg-watcher] Start watching: ["C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\config","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks_proxy","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app.js"]
+2020-11-19 08:46:38,748 INFO 11852 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app"
+2020-11-19 08:46:38,749 INFO 11852 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\config"
+2020-11-19 08:46:38,750 INFO 11852 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks"
+2020-11-19 08:46:38,751 INFO 11852 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks_proxy"
+2020-11-19 08:46:38,752 INFO 11852 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app.js"
+2020-11-19 08:46:38,754 INFO 11852 [egg-watcher:agent] watcher start success
+2020-11-19 08:46:38,847 INFO 11852 [egg:core] dump config after ready, 31ms
+2020-11-19 22:33:52,985 WARN 11852 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-11-20 09:00:10,655 INFO 3984 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-11-20 09:00:10,667 INFO 3984 [egg:core] dump config after load, 8ms
+2020-11-20 09:00:10,730 INFO 3984 [egg-watcher] Start watching: ["C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\config","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks_proxy","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app.js"]
+2020-11-20 09:00:10,731 INFO 3984 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app"
+2020-11-20 09:00:10,731 INFO 3984 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\config"
+2020-11-20 09:00:10,731 INFO 3984 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks"
+2020-11-20 09:00:10,731 INFO 3984 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks_proxy"
+2020-11-20 09:00:10,731 INFO 3984 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app.js"
+2020-11-20 09:00:10,732 INFO 3984 [egg-watcher:agent] watcher start success
+2020-11-20 09:00:10,752 INFO 3984 [egg:core] dump config after ready, 10ms
+2020-11-20 10:15:50,035 ERROR 3984 nodejs.ClusterClientNoResponseError: client no response in 856272ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\ZZH\Desktop\shoppingMall-master\server\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 3984
+hostname: DESKTOP-OBLRKFO
+
+2020-11-20 12:44:48,186 ERROR 3984 nodejs.ClusterClientNoResponseError: client no response in 2077271ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\ZZH\Desktop\shoppingMall-master\server\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 3984
+hostname: DESKTOP-OBLRKFO
+
+2020-11-20 16:26:02,638 WARN 3984 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-11-20 16:30:18,241 INFO 8644 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-11-20 16:30:18,254 INFO 8644 [egg:core] dump config after load, 8ms
+2020-11-20 16:30:18,329 INFO 8644 [egg-watcher] Start watching: ["C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\config","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks_proxy","C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app.js"]
+2020-11-20 16:30:18,329 INFO 8644 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app"
+2020-11-20 16:30:18,330 INFO 8644 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\config"
+2020-11-20 16:30:18,330 INFO 8644 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks"
+2020-11-20 16:30:18,330 INFO 8644 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\mocks_proxy"
+2020-11-20 16:30:18,330 INFO 8644 [egg-watcher] Start watching: "C:\\Users\\ZZH\\Desktop\\shoppingMall-master\\server\\app.js"
+2020-11-20 16:30:18,331 INFO 8644 [egg-watcher:agent] watcher start success
+2020-11-20 16:30:18,350 INFO 8644 [egg:core] dump config after ready, 8ms

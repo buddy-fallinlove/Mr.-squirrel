@@ -1,0 +1,42 @@
+2020-07-02 11:35:24,827 ERROR 10344 [-/127.0.0.1/-/17ms POST /v1/saveUser] nodejs.CastError: Cast to ObjectId failed for value "ad176e397858448a854dc50371334faf" at path "_id" for model "User"
+    at model.Query.exec (F:\项目练习\shoppingmall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (F:\项目练习\shoppingmall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"ad176e397858448a854dc50371334faf\""
+kind: "ObjectId"
+value: "ad176e397858448a854dc50371334faf"
+path: "_id"
+reason: {}
+pid: 10344
+hostname: DESKTOP-45EGDJV
+
+2020-07-02 13:34:27,049 ERROR 10344 [-/127.0.0.1/-/5ms POST /v1/saveUser] nodejs.CastError: Cast to ObjectId failed for value "ad176e397858448a854dc50371334faf" at path "_id" for model "User"
+    at model.Query.exec (F:\项目练习\shoppingmall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (F:\项目练习\shoppingmall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"ad176e397858448a854dc50371334faf\""
+kind: "ObjectId"
+value: "ad176e397858448a854dc50371334faf"
+path: "_id"
+reason: {}
+pid: 10344
+hostname: DESKTOP-45EGDJV
+
+2020-07-02 13:36:46,484 ERROR 10344 [-/127.0.0.1/-/2ms POST /v1/saveUser] nodejs.CastError: Cast to ObjectId failed for value "ad176e397858448a854dc50371334faf" at path "_id" for model "User"
+    at model.Query.exec (F:\项目练习\shoppingmall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (F:\项目练习\shoppingmall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"ad176e397858448a854dc50371334faf\""
+kind: "ObjectId"
+value: "ad176e397858448a854dc50371334faf"
+path: "_id"
+reason: {}
+pid: 10344
+hostname: DESKTOP-45EGDJV
+

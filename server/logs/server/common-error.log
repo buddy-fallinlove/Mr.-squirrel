@@ -1,0 +1,82 @@
+2020-07-02 11:35:24,823 ERROR 10344 [-/127.0.0.1/-/17ms POST /v1/saveUser] nodejs.CastError: Cast to ObjectId failed for value "ad176e397858448a854dc50371334faf" at path "_id" for model "User"
+    at model.Query.exec (F:\项目练习\shoppingmall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (F:\项目练习\shoppingmall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"ad176e397858448a854dc50371334faf\""
+kind: "ObjectId"
+value: "ad176e397858448a854dc50371334faf"
+path: "_id"
+reason: {}
+pid: 10344
+hostname: DESKTOP-45EGDJV
+
+2020-07-02 13:34:27,039 ERROR 10344 [-/127.0.0.1/-/5ms POST /v1/saveUser] nodejs.CastError: Cast to ObjectId failed for value "ad176e397858448a854dc50371334faf" at path "_id" for model "User"
+    at model.Query.exec (F:\项目练习\shoppingmall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (F:\项目练习\shoppingmall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"ad176e397858448a854dc50371334faf\""
+kind: "ObjectId"
+value: "ad176e397858448a854dc50371334faf"
+path: "_id"
+reason: {}
+pid: 10344
+hostname: DESKTOP-45EGDJV
+
+2020-07-02 13:36:46,478 ERROR 10344 [-/127.0.0.1/-/2ms POST /v1/saveUser] nodejs.CastError: Cast to ObjectId failed for value "ad176e397858448a854dc50371334faf" at path "_id" for model "User"
+    at model.Query.exec (F:\项目练习\shoppingmall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (F:\项目练习\shoppingmall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"ad176e397858448a854dc50371334faf\""
+kind: "ObjectId"
+value: "ad176e397858448a854dc50371334faf"
+path: "_id"
+reason: {}
+pid: 10344
+hostname: DESKTOP-45EGDJV
+
+2020-11-10 16:10:31,055 ERROR 10280 nodejs.ClusterClientNoResponseError: client no response in 87836ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\ZZH\Desktop\shoppingMall-master\server\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 10280
+hostname: DESKTOP-OBLRKFO
+
+2020-11-17 11:56:11,845 ERROR 2596 nodejs.ClusterClientNoResponseError: client no response in 130556ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\ZZH\Desktop\shoppingMall-master\server\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 2596
+hostname: DESKTOP-OBLRKFO
+
+2020-11-18 12:44:00,581 ERROR 7768 nodejs.ClusterClientNoResponseError: client no response in 2131452ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\ZZH\Desktop\shoppingMall-master\server\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 7768
+hostname: DESKTOP-OBLRKFO
+
+2020-11-20 10:15:49,843 ERROR 3984 nodejs.ClusterClientNoResponseError: client no response in 856272ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\ZZH\Desktop\shoppingMall-master\server\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 3984
+hostname: DESKTOP-OBLRKFO
+
+2020-11-20 12:44:47,761 ERROR 3984 nodejs.ClusterClientNoResponseError: client no response in 2077271ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\ZZH\Desktop\shoppingMall-master\server\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 3984
+hostname: DESKTOP-OBLRKFO
+

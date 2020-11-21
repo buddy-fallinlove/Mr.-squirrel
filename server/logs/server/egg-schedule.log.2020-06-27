@@ -1,0 +1,12 @@
+2020-06-27 22:47:34,706 INFO 13844 [egg-schedule]: register schedule F:\项目练习\shoppingmall\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-27 22:47:34,706 INFO 13844 [egg-schedule]: register schedule F:\项目练习\shoppingmall\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-27 22:47:34,706 INFO 13844 [egg-schedule]: register schedule F:\项目练习\shoppingmall\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-27 22:47:42,730 INFO 10644 [Timer] F:\项目练习\shoppingmall\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 20537274ms at 2020-06-28 04:30:00.004
+2020-06-27 22:47:42,730 INFO 10644 [Timer] F:\项目练习\shoppingmall\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 4337270ms at 2020-06-28 00:00:00.000
+2020-06-27 22:47:42,731 INFO 10644 [Timer] F:\项目练习\shoppingmall\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 4338270ms at 2020-06-28 00:00:01.001
+2020-06-28 00:00:00,024 INFO 13844 [Job#159327360000810421305642541001] F:\项目练习\shoppingmall\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js executing by app
+2020-06-28 00:00:00,032 INFO 13844 [Job#159327360000810421305642541001] F:\项目练习\shoppingmall\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js execute succeed, used 7ms
+2020-06-28 00:00:00,017 INFO 10644 [Timer] F:\项目练习\shoppingmall\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 86399988ms at 2020-06-29 00:00:00.005
+2020-06-28 00:00:01,004 INFO 13844 [Job#159327360100310421315584386991] F:\项目练习\shoppingmall\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js executing by app
+2020-06-28 00:00:01,016 INFO 13844 [Job#159327360100310421315584386991] F:\项目练习\shoppingmall\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js execute succeed, used 12ms
+2020-06-28 00:00:01,006 INFO 10644 [Timer] F:\项目练习\shoppingmall\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 86399997ms at 2020-06-29 00:00:01.003
